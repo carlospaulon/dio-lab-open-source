@@ -7,6 +7,9 @@
 ## Sobre o Projeto
 Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
+## Teste para commit
+Estou simplesmente realizando um teste, com fins educacionais.
+
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://elidianaandrade.github.io/dio-lab-open-source)
 
 ```
